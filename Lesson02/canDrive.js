@@ -1,6 +1,6 @@
 const firstName = 'Dane';
 const lastName = 'Wallace';
-let personsAge = 32;
+const personsAge = 32;
 const drivingAge = 16;
 let drivingSince = personsAge - drivingAge;
 
