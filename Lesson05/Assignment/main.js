@@ -30,8 +30,8 @@ function viewBalance() {
   optionsPrompt();
 }
 
-function selectOption(input) {
-  switch(input) {
+function selectOption(option) {
+  switch(option) {
     case 'W' || 'w': {
       withdrawMoney();
     }
